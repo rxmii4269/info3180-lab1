@@ -8,3 +8,13 @@ body {
   max-width: 960px;
   margin: 0 auto;
 }
+
+.header{
+  text-align: center;
+  justify-content: center;
+  background-color: blueviolet;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+
+}
